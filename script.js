@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         offset: 50
     });
 });
-
+ 
 // ===== HAMBURGER MOBILE MENU =====
 const hamburger = document.getElementById('hamburger');
 const navLinks = document.getElementById('nav-links');
